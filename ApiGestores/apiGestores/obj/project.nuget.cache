@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lJ3k77gXDlY=",
+  "dgSpecHash": "tlaMdsZwC1U=",
   "success": true,
-  "projectFilePath": "C:\\Users\\luisr\\Documents\\GitHub\\React\\ApiGestores.Net&React\\ApiGestores\\apiGestores\\apiGestores.csproj",
+  "projectFilePath": "C:\\Users\\luisr\\Documents\\GitHub\\React\\ApiGestoresNetReact\\ApiGestores\\apiGestores\\apiGestores.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\luisr\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\luisr\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

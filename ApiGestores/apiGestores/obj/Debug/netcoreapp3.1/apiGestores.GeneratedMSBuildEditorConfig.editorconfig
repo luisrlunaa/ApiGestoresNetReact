@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = apiGestores
-build_property.ProjectDir = C:\Users\luisr\Documents\GitHub\React\ApiGestores.Net&React\ApiGestores\apiGestores\
+build_property.ProjectDir = C:\Users\luisr\Documents\GitHub\React\ApiGestoresNetReact\ApiGestores\apiGestores\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false
